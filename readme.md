@@ -7,6 +7,14 @@ This project is focused on collaboration, expertise, and a willingness to learn 
 
 
 ## 🧰 Tech Stack
+FrontEnd
+
+
+Backend | Server-side
+
+
+Infrastructure
+
 
 
 
