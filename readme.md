@@ -19,9 +19,9 @@ Rather than following a fixed corporate top-down roadmap, this repository serves
 ---
 
 ## 🚧 Current Project Focus
-* **Project Category:** `[PLACEHOLDER: e.g., Web Utility / Productivity App / Dev Tool]`
+* **Project Category:** Financial technology, Home & Auto, Productivity/Work Apps
 * **Core Problem Being Solved:** `[PLACEHOLDER: Insert 1-2 sentence description of problem domain]`
-* **Target Audience:** `[PLACEHOLDER: Insert target user base]`
+* **Target Audience:** E for Everyone
 
 ---
 
