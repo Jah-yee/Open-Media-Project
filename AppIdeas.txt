@@ -1,0 +1,14 @@
+
+
+***App Ideas***
+
+-Customer Data Platform
+
+-Usage based - Stripe Alternative 
+
+-API Development (Postman alternative)
+
+-Datawarehous(snowflake alternative) eg..may be to extreme for this type of project</>
+
+-Product analytics (Mixpanel, Amptitude alternatives)
+
