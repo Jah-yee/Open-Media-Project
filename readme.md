@@ -1,4 +1,4 @@
-# 🤝 [Project Name]
+# 🤝 [App Project]
 
 > A collaborative, open-source project centered around shared expertise, continuous learning, and community-driven development.
 
