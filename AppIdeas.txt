@@ -2,13 +2,10 @@
 
 ***App Ideas***
 
--Customer Data Platform
+-Bug Tracking pre-defined template creation software 
 
--Usage based - Stripe Alternative 
+-Custom Package and labeling system
+conversions - labeling - fulfillment 
 
--API Development (Postman alternative)
-
--Datawarehous(snowflake alternative) eg..may be to extreme for this type of project</>
-
--Product analytics (Mixpanel, Amptitude alternatives)
-
+-Code/File conversion software 
+csv - json formatting 
