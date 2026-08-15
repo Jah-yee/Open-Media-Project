@@ -2,4 +2,4 @@
 
 
 
-***Contributors can also be place here for further documentation***
+***Contributors will also be placed here for further documentation***
