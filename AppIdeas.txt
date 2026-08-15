@@ -7,6 +7,9 @@
 -Custom Package and labeling system
 conversions - labeling - fulfillment 
 
--Dynamic API mocking sysem & Contract Server
+-Dynamic API mocking system & Contract Server
 
 -Workflow automation clipper
+
+-Raycast Productivity manager 
+hotkey virtual assistant 
