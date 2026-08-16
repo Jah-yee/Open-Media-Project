@@ -4,6 +4,7 @@ A collaborative, build-in-public project where developers learn, build, share kn
 and shape a real-world project together.
 
 About Learning Lab
+
 The Learning Lab is an open-source, community-driven project created to bring developers of
 different experience levels together to learn through real-world collaboration.
 Instead of following a fixed, top-down roadmap, Learning Lab gives contributors the
@@ -101,6 +102,7 @@ The foundation is being established, and we're looking for contributors who want
 shape what the project becomes.
 If you're interested in contributing early, this is a great time to get involved.
 Contributing
+
 
 Before contributing, please read our Contributing Guide (contributing.md).
 You can contribute through:
