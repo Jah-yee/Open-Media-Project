@@ -1,4 +1,5 @@
 [Learning Lab]
+
 A collaborative, build-in-public project where developers learn, build, share knowledge,
 and shape a real-world project together.
 
@@ -143,5 +144,6 @@ Shareyourknowledge
 
 Helpshapeanevolving project
 License
+
 License information will be added as the project develops.
 Learning Lab — Learn together. Build together. Improve together.
