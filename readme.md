@@ -42,15 +42,15 @@ Every contribution matters. Whether you're writing code, improving documentation
 suggesting an idea, testing a feature, or helping another contributor, your contribution can
 move the project forward.
 
-Knowledge Sharing
+Knowledge Sharing:
 Learning is a major part of the project. Experienced contributors can share their knowledge
 while newer developers gain practical experience by working alongside others.
 
-Technology Exploration
+Technology Exploration:
 The project provides an opportunity to explore different technologies, frameworks, libraries,
 tools, and development practices as the project evolves.
 
-Community-Driven Direction
+Community-Driven Direction:
 The direction of Learning Lab is not completely predetermined. Contributors can propose
 ideas, discuss possibilities, and help influence the project's features, categories, architecture,
 and technical direction.
