@@ -1,4 +1,4 @@
-### 🚀 The Open Playground
+### 🚀 The Open Lab project
 
 Welcome! This repository does not have a strict software concept, a rigid roadmap, or a corporate goal. 
 Instead, it is a public digital laboratory and a safe space for experimentation, learning, and building in public. 
@@ -14,12 +14,10 @@ Right now, I am using this repository to: 
 * **Break things** to figure out how they actually work.
 * **Build tiny utilities** and single-file scripts that solve random daily problems.
 
-### 🧰 Current Tech Stack
+### 🧰 Current Tech Stack ###
 
 * 🌱 **Languages:** [Add your primary language here, e.g., Python / TypeScript / Go]
 * 📦 **Tools & Frameworks:** [Add any tools you want to try, e.g., Node.js / SQLite / FastAPI]
-
-### 💡 Ideas & "What if..." List
 
 
 Here are some random thoughts and experiments I might tackle next. Feel free to steal these or build them with me: 
@@ -36,4 +34,4 @@ You do not need to be an expert to contribute. Because this project has no stric
 2. **Fix My Code:** Notice a bug or a messy function? Submit a Pull Request (PR)—I love learning better ways to write code.
 3. **Add Your Own Sandbox:** Create a new folder under your name (e.g., /contributors/your-name/) and build whatever you want.
 
-*“Done is better than perfect. Let's build something random.”*
+*“Done is better than perfect. Learn, live and build together.”*
