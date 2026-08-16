@@ -14,7 +14,7 @@ Right now, I am using this repository to: 
 * **Break things** to figure out how they actually work.
 * **Build tiny utilities** and single-file scripts that solve random daily problems.
 
-### 🧰 Current Tech Stack ###
+### 🧰 Current Tech Stack 🧰 ###
 
 * 🌱 **Languages:** [Add your primary language here, e.g., Python / TypeScript / Go]
 * 📦 **Tools & Frameworks:** [Add any tools you want to try, e.g., Node.js / SQLite / FastAPI]
@@ -26,8 +26,7 @@ Here are some random thoughts and experiments I might tackle next. Feel free to 
 * [ ] Idea 2: A basic script to automate [Y].
 * [ ] Idea 3: Exploring how to optimize [Z].
 
-### 🤝 How to Join the Journey
-
+### 🤝 How to Join the Journey ###
 You do not need to be an expert to contribute. Because this project has no strict rules, the barrier to entry is completely flat! 
 
 1. **Suggest an Idea:** Open a GitHub Issue with a random thought or tool you think would be fun to build.
