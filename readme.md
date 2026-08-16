@@ -1,9 +1,9 @@
-Learning Lab
-Acollaborative, build-in-public project where developers learn, build, share knowledge,
+[Learning Lab]
+A collaborative, build-in-public project where developers learn, build, share knowledge,
 and shape a real-world project together.
 
 About Learning Lab
-Learning Lab is an open-source, community-driven project created to bring developers of
+The Learning Lab is an open-source, community-driven project created to bring developers of
 different experience levels together to learn through real-world collaboration.
 Instead of following a fixed, top-down roadmap, Learning Lab gives contributors the
 opportunity to help shape the project — from ideas and features to technical decisions and
@@ -12,6 +12,7 @@ implementation.
 The goal is simple: Learn together. Build together. Improve together.
 Whether you're an experienced developer looking to share your knowledge or someone
 developing their skills through hands-on experience, there's a place for you here.
+
 What We're Building
 Learning Lab is currently in its early development stage.
 The project's direction is intentionally open so that contributors can help determine what we
