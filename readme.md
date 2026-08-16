@@ -1,6 +1,6 @@
 # 🤝 [App Project]
 
-> A collaborative, open-source project centered around shared expertise, continuous learning, and community-driven development.
+> A collaborative, build-in-public project centered around shared expertise, continuous learning, and community-driven development.
 
 ---
 
