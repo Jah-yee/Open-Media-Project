@@ -1,4 +1,4 @@
-# 🤝 [App Project]
+# 🤝 [Learning-Lab]
 
 > A collaborative, build-in-public project centered around shared expertise, continuous learning, and community-driven development.
 
@@ -6,7 +6,7 @@
 
 ## 🌟 About The Project
 
-**[Project Name]** was created to bring developers together to solve real-world problems through **collaboration**, **technical exchange**, and **a shared willingness to learn new technologies**. 
+**The Learning Lab** was created to bring developers together to solve real-world problems through **collaboration**, **technical exchange**, and **a shared willingness to learn new technologies**. 
 
 Rather than following a fixed corporate top-down roadmap, this repository serves as an open sandbox where collaborators actively shape the architecture, product categories, and technical decisions.
 
