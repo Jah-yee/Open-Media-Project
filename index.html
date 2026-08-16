@@ -1,1 +1,93 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Dev Playground</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #0f172a;
+            color: #f8fafc;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            text-align: center;
+            background-color: #1e293b;
+            padding: 2.5rem;
+            border-radius: 12px;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.5);
+            max-width: 500px;
+        }
+        h1 {
+            color: #38bdf8;
+            margin-bottom: 0.5rem;
+        }
+        p {
+            color: #94a3b8;
+            font-size: 1.1rem;
+        }
+        /* 🚨 INTENTIONAL BUG: This flex container should align items horizontally, 
+           but 'flex-direction: row-reverse' is making the layout backwards! */
+        .button-group {
+            display: flex;
+            flex-direction: row-reverse; 
+            gap: 1rem;
+            margin-top: 2rem;
+            justify-content: center;
+        }
+        button {
+            background-color: #2563eb;
+            color: white;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            font-size: 1rem;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        button:hover {
+            background-color: #1d4ed8;
+        }
+        .secondary {
+            background-color: #475569;
+        }
+        .secondary:hover {
+            background-color: #334155;
+        }
+        #message {
+            margin-top: 1.5rem;
+            font-weight: bold;
+            color: #4ade80;
+            min-height: 24px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Welcome to the Sandbox! 🕹️</h1>
+        <p>This page is perfectly fine and has absolutely zero errors whatsoever.</p>
+        
+        <div class="button-group">
+            <button class="secondary" onclick="showMessage('Left Button Clicked!')">Left Side Button</button>
+            <!-- 🚨 INTENTIONAL TYPO: "Sccuess" instead of "Success" -->
+            <button onclick="showMessage('Error 404: Sccuess Not Found!')">Right Side Button</button>
+        </div>
+
+        <div id="message"></div>
+    </div>
+
+    <script>
+        function showMessage(text) {
+            document.getElementById('message').innerText = text;
+        }
+    </script>
+</body>
+</html>
