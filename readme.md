@@ -1,4 +1,4 @@
-[Learning Lab]
+[The Media Lab]
 
 A collaborative, build-in-public project where developers learn, build, share knowledge,
 and shape a real-world project together.
