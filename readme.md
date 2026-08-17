@@ -7,138 +7,30 @@ About The Media Lab
 The Media Lab is an open-source, community-driven project created to bring developers of
 different experience levels together to learn through real-world collaboration.
 
-
 The goal is simple: Learn together. Build together. Improve together.
 Whether you're an experienced developer looking to share your knowledge or someone
 developing their skills through hands-on experience, there's a place for you here.
 
-What We're Building
-The Lab is currently in its early development stage.
-The project's direction is intentionally open so that contributors can help determine what we
-build and how we build it.
-Rather than deciding everything before the community gets involved, we want to explore
-ideas together, discuss possible solutions, and allow the most useful directions to emerge
-through collaboration.
-
-Current Goals
- 
-Buildapractical open-source project through community collaboration
- 
-Givedevelopers hands-on experience working with a real project
- 
-Encourageknowledge sharing and mentorship
- 
-Exploremoderntechnologies and development practices
- 
-Createopportunities for developers of different skill levels to contribute
- 
-
-Keepdevelopment efficient and accessible
-Core Principles
-Collaboration
-Every contribution matters. Whether you're writing code, improving documentation,
-suggesting an idea, testing a feature, or helping another contributor, your contribution can
-move the project forward.
-
-Knowledge Sharing:
-Learning is a major part of the project. Experienced contributors can share their knowledge
-while newer developers gain practical experience by working alongside others.
-
-Community-Driven Direction:
-The direction of Learning Lab is not completely predetermined. Contributors can propose
-ideas, discuss possibilities, and help influence the project's features, categories, architecture,
-and technical direction.
+The Lab's current Build: 
+We are designing an open-source safety and redactor media overlay that will be available on all operating systems, AppleIOS, Android, Windwos, Linux. This will be an extension that a user will grab from the repo and will "sit" within their browser. This overlay will have features that will detect if personal information, private keys or other credentails are being leaked through various networks and change the users screen a different colored and dimmed to alert them. This extension will also redact all private keys and api endpoints to protect internal/networking systems from intrusion. Users will be able to set predifined profiles with colors and notification sounds of their choosing to fit their lifestyle. 
 
 Technology
-The technology stack is intentionally open to discussion as the project develops.
-The current project includes work around technologies such as:
- 
-Frontend: React / JavaScript
- 
-Backend:Java /Spring Boot
- 
+Front-End:
+React
+Tailwind CSS
+JavaScript
 
-Additional technologies: Open for community discussion and expansion
-As the project evolves, the technology stack may change based on project requirements and
-community decisions.
+Back-End:
+Python
+Java
+FastAPI
 
-Howto Get Involved
-You don't need to be an expert to contribute.
-1. Share an Idea
-Have an idea for a feature, project direction, or technical approach? Start a discussion and
-share it with the community.
-2. Pick an Issue
-Check the open issues for tasks that you can help with.
+###How to get Involved###
+1.Join a discussion
+2.Fork or Star the repo
+3.Grab a ticket and create a new pr 
 
- 
-goodfirst issue
- 
-helpwanted
-4. Contribute Code
-Fork the repository, create a branch, work on your contribution, and submit a pull request.
-5. Improve Documentation
-Not every contribution needs to be code. Documentation improvements, examples, testing,
-issue reports, and suggestions are all valuable.
-6. Share Your Knowledge
-If you have experience with a technology or development practice that could help another
-contributor, share it. Learning Lab is intended to be a place where developers learn from one
-another.
-Project Direction
-Because Learning Lab is community-driven, the roadmap will evolve as contributors
-participate.
-Ideas can be proposed and discussed before becoming development tasks.
-As the community grows, we can establish clearer milestones, feature priorities, and
-development goals.
-Current Status
-Learning Lab is currently in the early development / community-building stage.
-The foundation is being established, and we're looking for contributors who want to help
-shape what the project becomes.
-If you're interested in contributing early, this is a great time to get involved.
-Contributing
-
-
-Before contributing, please read our Contributing Guide (contributing.md).
-You can contribute through:
- 
-Code
- 
-Documentation
- 
-Testing
- 
-Bugreports
- 
-Feature ideas
- 
-Technical discussions
- 
-Mentorship
- 
-
-Project organization
-Every contribution helps.
-Join the Discussion
-Have an idea? Want to suggest a feature? Not sure where you can contribute? Start a
-discussion and introduce yourself.
-The Media Lab is being built in public, and the community is part of the process.
-
-WhyContribute?
- 
-Gainpractical open-source experience
- 
-Workwithother developers
- 
-Learnnewtechnologies
- 
-Buildreal-world development experience
- 
-Practice collaboration and Git workflows
- 
-Shareyourknowledge
- 
-
-Helpshapeanevolving project
-License
 
 License information will be added as the project develops.
-Learning Lab — Learn together. Build together. Improve together.
+
+#The Media Lab — Learn together. Build together. Improve together.
