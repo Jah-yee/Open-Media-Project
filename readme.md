@@ -16,18 +16,26 @@ We are designing an open-source safety and redactor media overlay that will be a
 
 Technology
 Front-End:
+
 React
+
 Tailwind CSS
+
 JavaScript
 
 Back-End:
+
 Python
+
 Java
+
 FastAPI
 
 ###How to get Involved###
 1.Join a discussion
+
 2.Fork or Star the repo
+
 3.Grab a ticket and create a new pr 
 
 
